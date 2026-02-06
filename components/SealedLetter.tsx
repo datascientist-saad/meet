@@ -142,7 +142,7 @@ export default function SealedLetter({
               Letter Sealed with Love
             </h2>
             <p className="text-sm sm:text-base text-[#9a4c73] mb-5">
-              I Love You Always
+              I Love you beyond infinity
             </p>
 
             {/* Animated Hearts */}
@@ -208,12 +208,7 @@ export default function SealedLetter({
                   Experience Again ✨
                 </button>
               )}
-              <button
-                onClick={handleSendKiss}
-                className="rounded-full bg-[#9be7c4] px-5 py-2.5 text-sm sm:text-base font-medium shadow hover:brightness-95 transition cursor-pointer"
-              >
-                Send a Virtual Kiss 💋
-              </button>
+              
             </div>
           </motion.div>
         </div>

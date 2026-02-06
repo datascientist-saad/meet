@@ -20,7 +20,7 @@ const cards: Card[] = [
   {
     id: 1,
     image: '/assets/pic1.png',
-    message: 'I Love u Divya 💕',
+    message: 'I Love you more anything I can even imagine 💕',
     gradient: 'from-pink-200 to-purple-200',
     delay: 0,
   },
@@ -28,7 +28,7 @@ const cards: Card[] = [
     id: 2,
     image: '/assets/pic2.png',
     message:
-      "You don't even have to try — you just make everything around you feel lighter, warmer, better. ✨",
+      "The care, support, kindness, warmth, love, emotional safety, consistency, loyalty and the EFFORT you give is unrepayable 🤍🤍🤍",
     gradient: 'from-blue-200 to-teal-200',
     delay: 0.2,
   },
@@ -36,7 +36,7 @@ const cards: Card[] = [
     id: 3,
     image: '/assets/pic3.png',
     message:
-      "The little things you do — your expressions, your laughter, the way you talk — they've all become my favorite details. 🌸",
+      "You are everything I could ever imagine to find, you feel like HOME to me ❤️🫂",
     gradient: 'from-yellow-200 to-orange-200',
     delay: 0.4,
   },

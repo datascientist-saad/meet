@@ -20,10 +20,10 @@ interface Track {
 const tracks: Track[] = [
   {
     id: 1,
-    title: 'Dil Cheeze Tujhe Dedi',
-    description: 'You own this heart — dedicated to you 💞',
+    title: 'Ishq wala love',
+    description: 'Kyunkay yeh ho chuka hai 💞',
     image: '/assets/music1.png',
-    audio: '/assets/music1-Bpgt1BZ5.mp3',
+    audio: '/assets/Ishq Wala Love Student Of The year 128 Kbps.mp3',
   },
   {
     id: 2,

@@ -131,7 +131,7 @@ export default function MessageCard({
               A Love Letter 💌
             </h2>
             <div className="text-xs text-[#9a4c73] mt-1">
-              From my heart to yours
+              From SAAD to MADAM JEEEE
             </div>
           </div>
         </div>
@@ -277,7 +277,7 @@ export default function MessageCard({
                                 💝
                               </div>
                               <span className="text-sm font-semibold text-[#9a4c73]">
-                                My Sweetest Love
+                                My one and only Princess
                               </span>
                             </div>
                           </div>
@@ -285,23 +285,24 @@ export default function MessageCard({
                           {/* Letter body */}
                           <div className="handwriting text-sm sm:text-base leading-relaxed text-[#1b0d14] pb-20 pt-6">
                             <div className="mb-4 text-[#f04299] font-medium">
-                              My dearest Divya,
+                              Aliya,
                             </div>
                             <div
                               className="mb-6 text-justify"
                               style={{ textIndent: '2rem' }}
                             >
-                              Every moment with you feels like a beautiful dream
-                              that I never want to wake up from. I want you to
-                              know that you are the most precious person in my
-                              life. Every day with you is a gift, and I&apos;m
-                              grateful for every second we share together. You
-                              make me want to be the best version of myself.
+                            Mainain bohot pehlay aik theory parhi thi kay do dilon ke darmiyan ek invisible string hoti hai jo waqt aur faaslon ke bawajood kabhi nahi toot-ti hai. 
+                            Mujhe ab samajh aaya ke jab hum aik doosre ko jante nhi thay, tab bhi ye string mujhe aapki taraf khench rahi thi. 
+                            Shayad hum ek hi raaste se guzre par ek doosre ko dekha nahi. 
+                            Har mod, har raasta, aur har woh choti si baat is liye thi taake main aap tak pahunch sakoon.
+                            <br /> <br />
+                            Kuch log kehtay hain kay aik insan se aapko kayi baar pyaar hosakta hai, mujhe toh har jhalak aur har aik pal main aapse pyaar hota hi gya hai.
+
                             </div>
                             <div className="mt-8 ml-auto w-fit">
                               <div className="font-medium text-[#f04299]">
                                 <TypewriterText
-                                  text="With all my love, Always yours 💕"
+                                  text="With all my love and more 💕"
                                   duration={2}
                                   delay={0}
                                   onComplete={() =>

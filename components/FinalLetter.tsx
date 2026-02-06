@@ -149,23 +149,21 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
             </div>
 
             <article className="handwriting text-sm sm:text-base text-[#1b0d14] leading-relaxed space-y-4">
-              <p className="text-[#f04299] font-semibold">
-                My sweetest Cutiepie,
-              </p>
-              <p>
-                You&apos;re the calm I reach for and the laugh that brightens my
-                day.
-              </p>
-              <p className="text-[#5a9bb8]">
-                I hope this tiny world made you smile — and whispered how much
-                you mean to me.
-              </p>
-              <p>
-                I&apos;ll keep making memories, big and small, always with you.
-              </p>
-              <p className="text-[#a67fb8]">
-                Forever yours, in every little universe.
-              </p>
+
+Aap meri zindagi ka wo hissa ho jahan se meri har khushi shuru hoti hai. Aapki muskurahat meri rooh ko sukoon deti hai, aur aapki awaaz mere dil ka sabse khoobsurat hissa hai. Jab paas hoti ho, duniya ruk si jaati hai… aur jab door hoti ho, har lamha kami mehsoos hoti hai.
+<br />
+Mujhe aapki har baat pasand hai — hansna, gussa karna, chup rehna… sab kuch. In aankhon mein aisa jaadu hai ke main khud ko bhool jaata hoon.
+<br />
+Main wada karta hoon ke aapka haath kabhi nahi chhorunga — mushkil waqt mein bhi, khushi ke lamhon mein bhi. Jab duniya thaka de, main aapka sahara banunga. Jab ro gi, main aapki aankhon ke aansu apne dil mein sambhaal lunga. Jab muskurao gi, meri poori kainaat roshan ho jaaye.
+<br />
+Mujhe sirf Aliya chahiye — har subah, har shaam, har pal, har ghari, har waqt.
+<br />
+I dont know anything, par yeh jaanta hoon kay ...
+<br /><br />
+
+I LOVE YOU AND WILL KEEP LOVINGGGG YOUUUUUUUUU FOREVERRRRRRRRRRRRRR
+
+              
             </article>
 
             <div className="mt-6 flex flex-col sm:flex-row justify-between gap-3 items-center">
