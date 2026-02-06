@@ -23,7 +23,7 @@ const tracks: Track[] = [
     title: 'Ishq wala love',
     description: 'Kyunkay yeh ho chuka hai 💞',
     image: '/assets/music1.png',
-    audio: '/assets/Ishq Wala Love Student Of The year 128 Kbps.mp3',
+    audio: '/assets/ishqwala.mp3',
   },
   {
     id: 2,
