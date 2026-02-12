@@ -131,7 +131,7 @@ export default function MessageCard({
               A Love Letter 💌
             </h2>
             <div className="text-xs text-[#9a4c73] mt-1">
-              From SAAD to MADAM JEEEE
+              From SAAD to his MADAM JEEEE
             </div>
           </div>
         </div>

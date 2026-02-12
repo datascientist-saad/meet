@@ -20,7 +20,7 @@ const cards: Card[] = [
   {
     id: 1,
     image: '/assets/pic1.png',
-    message: 'I Love you more anything I can even imagine 💕',
+    message: 'Ever since you came in my life, my life feels complete now ❤️🤍',
     gradient: 'from-pink-200 to-purple-200',
     delay: 0,
   },
